@@ -2,4 +2,4 @@
 This is a basic course of Git for beginners
 I'm same guy
 
-Encryption is done
+Both types of Encryption are done
